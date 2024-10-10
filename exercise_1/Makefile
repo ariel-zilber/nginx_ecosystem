@@ -1,6 +1,6 @@
 # Variables
-IMAGE=nginx-simple-demo-exe:v1
-CONTAINER_NAME='exe-1'
+IMAGE=nginx-exercise-exe:v1
+CONTAINER_NAME='nginx-exercise-1'
 PORT=8085
  
 # Default target: build and run

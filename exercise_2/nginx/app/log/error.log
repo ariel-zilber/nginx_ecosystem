@@ -1,0 +1,31 @@
+2024/10/10 13:52:34 [notice] 1#1: using the "epoll" event method
+2024/10/10 13:52:34 [notice] 1#1: nginx/1.27.2
+2024/10/10 13:52:34 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/10 13:52:34 [notice] 1#1: OS: Linux 6.5.0-35-generic
+2024/10/10 13:52:34 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/10 13:52:34 [notice] 1#1: start worker processes
+2024/10/10 13:52:34 [notice] 1#1: start worker process 22
+2024/10/10 13:53:06 [error] 22#22: *1 open() "/usr/share/nginx/html/animal_sound" failed (2: No such file or directory), client: 172.24.0.1, server: localhost, request: "GET /animal_sound HTTP/1.1", host: "127.0.0.1:5000"
+2024/10/10 13:53:06 [error] 22#22: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.24.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:5000", referrer: "http://127.0.0.1:5000/animal_sound"
+2024/10/10 13:53:08 [error] 22#22: *1 open() "/usr/share/nginx/html/styles.css" failed (2: No such file or directory), client: 172.24.0.1, server: localhost, request: "GET /styles.css HTTP/1.1", host: "127.0.0.1:5000", referrer: "http://127.0.0.1:5000/"
+2024/10/10 13:54:25 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/10 13:54:25 [notice] 22#22: gracefully shutting down
+2024/10/10 13:54:25 [notice] 22#22: exiting
+2024/10/10 13:54:25 [notice] 22#22: exit
+2024/10/10 13:54:25 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2024/10/10 13:54:25 [notice] 1#1: worker process 22 exited with code 0
+2024/10/10 13:54:25 [notice] 1#1: exit
+2024/10/10 13:54:33 [notice] 1#1: using the "epoll" event method
+2024/10/10 13:54:33 [notice] 1#1: nginx/1.27.2
+2024/10/10 13:54:33 [notice] 1#1: built by gcc 12.2.0 (Debian 12.2.0-14) 
+2024/10/10 13:54:33 [notice] 1#1: OS: Linux 6.5.0-35-generic
+2024/10/10 13:54:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2024/10/10 13:54:33 [notice] 1#1: start worker processes
+2024/10/10 13:54:33 [notice] 1#1: start worker process 21
+2024/10/10 13:54:36 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2024/10/10 13:54:36 [notice] 21#21: gracefully shutting down
+2024/10/10 13:54:36 [notice] 21#21: exiting
+2024/10/10 13:54:36 [notice] 21#21: exit
+2024/10/10 13:54:36 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2024/10/10 13:54:36 [notice] 1#1: worker process 21 exited with code 0
+2024/10/10 13:54:36 [notice] 1#1: exit
