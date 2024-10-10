@@ -152,3 +152,15 @@
 2024/10/10 12:15:35 [notice] 1#1: signal 17 (SIGCHLD) received from 139
 2024/10/10 12:15:35 [notice] 1#1: worker process 139 exited with code 0
 2024/10/10 12:15:35 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/10 14:35:35 [notice] 142#142: signal process started
+2024/10/10 14:35:35 [notice] 1#1: signal 1 (SIGHUP) received from 142, reconfiguring
+2024/10/10 14:35:35 [notice] 1#1: reconfiguring
+2024/10/10 14:35:35 [notice] 1#1: using the "epoll" event method
+2024/10/10 14:35:35 [notice] 1#1: start worker processes
+2024/10/10 14:35:35 [notice] 1#1: start worker process 143
+2024/10/10 14:35:35 [notice] 141#141: gracefully shutting down
+2024/10/10 14:35:35 [notice] 141#141: exiting
+2024/10/10 14:35:35 [notice] 141#141: exit
+2024/10/10 14:35:35 [notice] 1#1: signal 17 (SIGCHLD) received from 141
+2024/10/10 14:35:35 [notice] 1#1: worker process 141 exited with code 0
+2024/10/10 14:35:35 [notice] 1#1: signal 29 (SIGIO) received

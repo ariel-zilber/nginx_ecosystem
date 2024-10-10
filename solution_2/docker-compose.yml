@@ -17,7 +17,8 @@ services:
       - ./nginx/app/conf/scgi_params:/etc/nginx/scgi_params
       - ./nginx/app/conf/conf.d:/etc/nginx/conf.d
     restart: unless-stopped
-
+    networks:
+      - mynetwork
   flask-animal-app-1:
     build:
       context: microservice
@@ -27,6 +28,8 @@ services:
     environment:
       - INSTANCE_ID=1
     container_name: flask-animal-app-1
+    networks:
+      - mynetwork
 
 
   flask-animal-app-2:
@@ -38,7 +41,8 @@ services:
     environment:
       - INSTANCE_ID=2
     container_name: flask-animal-app-2
-
+    networks:
+      - mynetwork
   flask-animal-app-3:
     build:
       context: microservice
@@ -48,4 +52,9 @@ services:
     environment:
       - INSTANCE_ID=3
     container_name: flask-animal-app-3
+    networks:
+      - mynetwork
 
+networks:
+  mynetwork:
+    driver: bridge
