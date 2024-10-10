@@ -1,0 +1,154 @@
+2024/10/10 11:27:44 [notice] 118#118: signal process started
+2024/10/10 11:27:44 [notice] 1#1: signal 1 (SIGHUP) received from 118, reconfiguring
+2024/10/10 11:27:44 [notice] 1#1: reconfiguring
+2024/10/10 11:27:44 [notice] 1#1: using the "epoll" event method
+2024/10/10 11:27:44 [notice] 1#1: start worker processes
+2024/10/10 11:27:44 [notice] 1#1: start worker process 119
+2024/10/10 11:27:44 [notice] 117#117: gracefully shutting down
+2024/10/10 11:27:52 [notice] 117#117: exiting
+2024/10/10 11:27:52 [notice] 117#117: exit
+2024/10/10 11:27:52 [notice] 1#1: signal 17 (SIGCHLD) received from 117
+2024/10/10 11:27:52 [notice] 1#1: worker process 117 exited with code 0
+2024/10/10 11:27:52 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/10 11:28:49 [notice] 120#120: signal process started
+2024/10/10 11:28:49 [notice] 1#1: signal 1 (SIGHUP) received from 120, reconfiguring
+2024/10/10 11:28:49 [notice] 1#1: reconfiguring
+2024/10/10 11:28:49 [notice] 1#1: using the "epoll" event method
+2024/10/10 11:28:49 [notice] 1#1: start worker processes
+2024/10/10 11:28:49 [notice] 1#1: start worker process 121
+2024/10/10 11:28:49 [notice] 119#119: gracefully shutting down
+2024/10/10 11:28:58 [notice] 119#119: exiting
+2024/10/10 11:28:58 [notice] 119#119: exit
+2024/10/10 11:28:58 [notice] 1#1: signal 17 (SIGCHLD) received from 119
+2024/10/10 11:28:58 [notice] 1#1: worker process 119 exited with code 0
+2024/10/10 11:28:58 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/10 11:30:15 [notice] 122#122: signal process started
+2024/10/10 11:30:15 [notice] 1#1: signal 1 (SIGHUP) received from 122, reconfiguring
+2024/10/10 11:30:15 [notice] 1#1: reconfiguring
+2024/10/10 11:30:15 [notice] 1#1: using the "epoll" event method
+2024/10/10 11:30:15 [notice] 1#1: start worker processes
+2024/10/10 11:30:15 [notice] 1#1: start worker process 123
+2024/10/10 11:30:15 [notice] 121#121: gracefully shutting down
+2024/10/10 11:30:20 [notice] 121#121: exiting
+2024/10/10 11:30:20 [notice] 121#121: exit
+2024/10/10 11:30:20 [notice] 1#1: signal 17 (SIGCHLD) received from 121
+2024/10/10 11:30:20 [notice] 1#1: worker process 121 exited with code 0
+2024/10/10 11:30:20 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/10 11:30:27 [notice] 124#124: signal process started
+2024/10/10 11:30:27 [notice] 1#1: signal 1 (SIGHUP) received from 124, reconfiguring
+2024/10/10 11:30:27 [notice] 1#1: reconfiguring
+2024/10/10 11:30:27 [notice] 1#1: using the "epoll" event method
+2024/10/10 11:30:27 [notice] 1#1: start worker processes
+2024/10/10 11:30:27 [notice] 1#1: start worker process 125
+2024/10/10 11:30:27 [notice] 123#123: gracefully shutting down
+2024/10/10 11:30:31 [notice] 123#123: exiting
+2024/10/10 11:30:31 [notice] 123#123: exit
+2024/10/10 11:30:31 [notice] 1#1: signal 17 (SIGCHLD) received from 123
+2024/10/10 11:30:31 [notice] 1#1: worker process 123 exited with code 0
+2024/10/10 11:30:31 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/10 11:30:45 [notice] 126#126: signal process started
+2024/10/10 11:30:45 [notice] 1#1: signal 1 (SIGHUP) received from 126, reconfiguring
+2024/10/10 11:30:45 [notice] 1#1: reconfiguring
+2024/10/10 11:30:45 [notice] 1#1: using the "epoll" event method
+2024/10/10 11:30:45 [notice] 1#1: start worker processes
+2024/10/10 11:30:45 [notice] 1#1: start worker process 127
+2024/10/10 11:30:45 [notice] 125#125: gracefully shutting down
+2024/10/10 11:30:59 [notice] 125#125: exiting
+2024/10/10 11:30:59 [notice] 125#125: exit
+2024/10/10 11:30:59 [notice] 1#1: signal 17 (SIGCHLD) received from 125
+2024/10/10 11:30:59 [notice] 1#1: worker process 125 exited with code 0
+2024/10/10 11:30:59 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/10 12:08:29 [notice] 128#128: signal process started
+2024/10/10 12:08:29 [notice] 1#1: signal 1 (SIGHUP) received from 128, reconfiguring
+2024/10/10 12:08:29 [notice] 1#1: reconfiguring
+2024/10/10 12:08:29 [notice] 1#1: using the "epoll" event method
+2024/10/10 12:08:29 [notice] 1#1: start worker processes
+2024/10/10 12:08:29 [notice] 1#1: start worker process 129
+2024/10/10 12:08:29 [notice] 127#127: gracefully shutting down
+2024/10/10 12:08:29 [notice] 127#127: exiting
+2024/10/10 12:08:29 [notice] 127#127: exit
+2024/10/10 12:08:29 [notice] 1#1: signal 17 (SIGCHLD) received from 127
+2024/10/10 12:08:29 [notice] 1#1: worker process 127 exited with code 0
+2024/10/10 12:08:29 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/10 12:08:49 [error] 129#129: *100 open() "/usr/share/nginx/html/raw/whoami" failed (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /whoami HTTP/1.1", host: "127.0.0.1:8085"
+2024/10/10 12:09:19 [notice] 130#130: signal process started
+2024/10/10 12:09:19 [notice] 1#1: signal 1 (SIGHUP) received from 130, reconfiguring
+2024/10/10 12:09:19 [notice] 1#1: reconfiguring
+2024/10/10 12:09:19 [notice] 1#1: using the "epoll" event method
+2024/10/10 12:09:19 [notice] 1#1: start worker processes
+2024/10/10 12:09:19 [notice] 1#1: start worker process 131
+2024/10/10 12:09:19 [notice] 129#129: gracefully shutting down
+2024/10/10 12:09:38 [notice] 129#129: exiting
+2024/10/10 12:09:38 [notice] 129#129: exit
+2024/10/10 12:09:38 [notice] 1#1: signal 17 (SIGCHLD) received from 129
+2024/10/10 12:09:38 [notice] 1#1: worker process 129 exited with code 0
+2024/10/10 12:09:38 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/10 12:09:43 [notice] 132#132: signal process started
+2024/10/10 12:09:43 [notice] 1#1: signal 1 (SIGHUP) received from 132, reconfiguring
+2024/10/10 12:09:43 [notice] 1#1: reconfiguring
+2024/10/10 12:09:43 [notice] 1#1: using the "epoll" event method
+2024/10/10 12:09:43 [notice] 1#1: start worker processes
+2024/10/10 12:09:43 [notice] 1#1: start worker process 133
+2024/10/10 12:09:43 [notice] 131#131: gracefully shutting down
+2024/10/10 12:09:43 [notice] 131#131: exiting
+2024/10/10 12:09:43 [notice] 131#131: exit
+2024/10/10 12:09:43 [notice] 1#1: signal 17 (SIGCHLD) received from 131
+2024/10/10 12:09:43 [notice] 1#1: worker process 131 exited with code 0
+2024/10/10 12:09:43 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/10 12:09:47 [error] 133#133: *101 open() "/usr/share/nginx/html/raw/whoami" failed (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /whoami HTTP/1.1", host: "127.0.0.1:8085"
+2024/10/10 12:09:55 [error] 133#133: *101 open() "/usr/share/nginx/html/raw/whoami" failed (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /whoami HTTP/1.1", host: "127.0.0.1:8085"
+2024/10/10 12:09:56 [error] 133#133: *101 open() "/usr/share/nginx/html/raw/whoami" failed (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /whoami HTTP/1.1", host: "127.0.0.1:8085"
+2024/10/10 12:09:57 [error] 133#133: *101 open() "/usr/share/nginx/html/raw/whoami" failed (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /whoami HTTP/1.1", host: "127.0.0.1:8085"
+2024/10/10 12:10:15 [error] 133#133: *101 open() "/usr/share/nginx/html/raw/whoami" failed (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /whoami HTTP/1.1", host: "127.0.0.1:8085"
+2024/10/10 12:10:46 [notice] 134#134: signal process started
+2024/10/10 12:10:46 [notice] 1#1: signal 1 (SIGHUP) received from 134, reconfiguring
+2024/10/10 12:10:46 [notice] 1#1: reconfiguring
+2024/10/10 12:10:46 [notice] 1#1: using the "epoll" event method
+2024/10/10 12:10:46 [notice] 1#1: start worker processes
+2024/10/10 12:10:46 [notice] 1#1: start worker process 135
+2024/10/10 12:10:46 [notice] 133#133: gracefully shutting down
+2024/10/10 12:10:47 [notice] 133#133: exiting
+2024/10/10 12:10:47 [notice] 133#133: exit
+2024/10/10 12:10:47 [notice] 1#1: signal 17 (SIGCHLD) received from 133
+2024/10/10 12:10:47 [notice] 1#1: worker process 133 exited with code 0
+2024/10/10 12:10:47 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/10 12:13:26 [notice] 136#136: signal process started
+2024/10/10 12:13:26 [notice] 1#1: signal 1 (SIGHUP) received from 136, reconfiguring
+2024/10/10 12:13:26 [notice] 1#1: reconfiguring
+2024/10/10 12:13:26 [notice] 1#1: using the "epoll" event method
+2024/10/10 12:13:26 [notice] 1#1: start worker processes
+2024/10/10 12:13:26 [notice] 1#1: start worker process 137
+2024/10/10 12:13:26 [notice] 135#135: gracefully shutting down
+2024/10/10 12:13:26 [notice] 135#135: exiting
+2024/10/10 12:13:26 [notice] 135#135: exit
+2024/10/10 12:13:27 [notice] 1#1: signal 17 (SIGCHLD) received from 135
+2024/10/10 12:13:27 [notice] 1#1: worker process 135 exited with code 0
+2024/10/10 12:13:27 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/10 12:13:39 [error] 137#137: *105 "/etc/nginx/html/whoami/index.html" is not found (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /notami/ HTTP/1.1", host: "127.0.0.1:8085"
+2024/10/10 12:13:54 [error] 137#137: *105 "/etc/nginx/html/whoami/index.html" is not found (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /notami/ HTTP/1.1", host: "127.0.0.1:8085"
+2024/10/10 12:13:56 [error] 137#137: *105 "/etc/nginx/html/whoami/index.html" is not found (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /notami/ HTTP/1.1", host: "127.0.0.1:8085"
+2024/10/10 12:14:56 [notice] 138#138: signal process started
+2024/10/10 12:14:56 [notice] 1#1: signal 1 (SIGHUP) received from 138, reconfiguring
+2024/10/10 12:14:56 [notice] 1#1: reconfiguring
+2024/10/10 12:14:56 [notice] 1#1: using the "epoll" event method
+2024/10/10 12:14:56 [notice] 1#1: start worker processes
+2024/10/10 12:14:56 [notice] 1#1: start worker process 139
+2024/10/10 12:14:56 [notice] 137#137: gracefully shutting down
+2024/10/10 12:14:56 [notice] 137#137: exiting
+2024/10/10 12:14:56 [notice] 137#137: exit
+2024/10/10 12:14:56 [notice] 1#1: signal 17 (SIGCHLD) received from 137
+2024/10/10 12:14:56 [notice] 1#1: worker process 137 exited with code 0
+2024/10/10 12:14:56 [notice] 1#1: signal 29 (SIGIO) received
+2024/10/10 12:15:29 [notice] 140#140: signal process started
+2024/10/10 12:15:29 [notice] 1#1: signal 1 (SIGHUP) received from 140, reconfiguring
+2024/10/10 12:15:29 [notice] 1#1: reconfiguring
+2024/10/10 12:15:29 [notice] 1#1: using the "epoll" event method
+2024/10/10 12:15:29 [notice] 1#1: start worker processes
+2024/10/10 12:15:29 [notice] 1#1: start worker process 141
+2024/10/10 12:15:29 [notice] 139#139: gracefully shutting down
+2024/10/10 12:15:35 [error] 139#139: *107 "/usr/share/nginx/html/raw/notam/index.html" is not found (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /notam/ HTTP/1.1", host: "127.0.0.1:8085"
+2024/10/10 12:15:35 [notice] 139#139: exiting
+2024/10/10 12:15:35 [notice] 139#139: exit
+2024/10/10 12:15:35 [notice] 1#1: signal 17 (SIGCHLD) received from 139
+2024/10/10 12:15:35 [notice] 1#1: worker process 139 exited with code 0
+2024/10/10 12:15:35 [notice] 1#1: signal 29 (SIGIO) received
